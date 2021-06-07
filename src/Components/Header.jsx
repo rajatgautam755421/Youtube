@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import MenuIcon from '@material-ui/icons/Menu';
+import { MenuIcon } from '@material-ui/icons';
 import SearchIcon from '@material-ui/icons/Search';
 import VideoCallIcon from '@material-ui/icons/VideoCall';
 import AppsIcon from '@material-ui/icons/Apps';
